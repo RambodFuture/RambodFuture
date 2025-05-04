@@ -1,9 +1,18 @@
-- ##👋 Hi, I’m Rambod(Rammy) and I'm a 2nd year computer science major at **Simon Fraser University**
-- ##👀 I’m interested in **programming**, new technologies,problem solving, playing guitar and listening to music
-- ##🌱 I’m currently learning **C programming**, **data structures**, and foundations of **computer science** 
-- ##Languages : Python and C
-  Contact Info: rambodpvvk1384@gmail.com 
-  
+# Hi, I’m Rambod (Rammy) 👋  
+### 🎓 About Me  
+I’m a second-year Computer Science major at **Simon Fraser University** with a passion for programming, problem-solving, and exploring new technologies.  
+
+### 🔧 Skills & Interests  
+- **Programming Languages**: Python, C  
+- **Currently Learning**: Advanced C programming, Data Structures, Computer Science Foundations  
+- **Hobbies**: Playing guitar, listening to music
+ 
+### 📫 Contact Me  
+Feel free to reach out for collaborations or just to chat!  
+📧 **Email**: [rambodpvvk1384@gmail.com](mailto:rambodpvvk1384@gmail.com)  
+
+### 🚀 Goals  
+I’m eager to contribute to open-source projects and expand my knowledge in software development. Let’s connect!  
 
 
 <!---
