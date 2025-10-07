@@ -4,7 +4,7 @@ I’m a second-year Computer Science major at **Simon Fraser University** with a
 
 ### 🔧 Skills & Interests  
 - **Programming Languages**: Python, C/C++, Java (learning)   
-- **Currently Learning**: Advanced C and python programming, Data Structures, Computer Science Foundations  
+- **Currently Learning**: Advanced python and Java programming, Data Structures, Computer Science Foundations  
 - **Hobbies**: Playing guitar, listening to music
  
 ### 📫 Contact Me  
