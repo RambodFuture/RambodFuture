@@ -9,7 +9,7 @@ I’m a second-year Computer Science major at **Simon Fraser University** with a
  
 ### 📫 Contact Me  
 Feel free to reach out for collaborations or just to chat!  
-📧 **Email**: [rambodpvvk1384@gmail.com](mailto:rambodpvvk1384@gmail.com)  
+📧 **Email**: [rpa89@sfu.ca](mailto:rpa89@sfu.ca)  
 
 ### 🚀 Goals  
 I’m eager to contribute to open-source projects and expand my knowledge in software development. Let’s connect!  
